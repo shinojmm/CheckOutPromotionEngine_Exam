@@ -1,0 +1,85 @@
+
+Log Entry : 3:28:57 PM Wednesday, August 11, 2021
+  :
+  :Promotion Engine is initialized : 
+-------------------------------
+
+Log Entry : 3:28:58 PM Wednesday, August 11, 2021
+  :
+  :Error in Config file Loading :The configuration file 'DataStore.json' was not found and is not optional. The physical path is 'Z:\Workspace\CheckOutPromotionEngine_Test\CheckOut.Promotion.Engine\CheckOut.Promotion.Engine.Console\bin\Debug\net5.0\DataStore.json'.
+-------------------------------
+
+Log Entry : 10:27:06 PM Wednesday, August 11, 2021
+  :
+  :Promotion Engine is initialized : 
+-------------------------------
+
+Log Entry : 10:27:06 PM Wednesday, August 11, 2021
+  :
+  :Error in Config file Loading :The configuration file 'DataStore.json' was not found and is not optional. The physical path is 'Z:\Workspace\CheckOutPromotionEngine_Test\CheckOut.Promotion.Engine\CheckOut.Promotion.Engine.Console\bin\Debug\net5.0\DataStore.json'.
+-------------------------------
+
+Log Entry : 10:27:49 PM Wednesday, August 11, 2021
+  :
+  :Promotion Engine is initialized : 
+-------------------------------
+
+Log Entry : 10:31:05 PM Wednesday, August 11, 2021
+  :
+  :Promotion Engine is initialized : 
+-------------------------------
+
+Log Entry : 10:31:39 PM Wednesday, August 11, 2021
+  :
+  :Error in Config file Loading :The configuration file 'DataStore.json' was not found and is not optional. The physical path is 'Z:\Workspace\CheckOutPromotionEngine_Test\CheckOut.Promotion.Engine\CheckOut.Promotion.Engine.Console\bin\Debug\net5.0\DataStore.json'.
+-------------------------------
+
+Log Entry : 10:31:41 PM Wednesday, August 11, 2021
+  :
+  :Error in Checking out Products :Object reference not set to an instance of an object.
+-------------------------------
+
+Log Entry : 10:38:18 PM Wednesday, August 11, 2021
+  :
+  :Promotion Engine is initialized : 
+-------------------------------
+
+Log Entry : 12:31:19 PM Thursday, August 12, 2021
+  :
+  :Promotion Engine is initialized : 
+-------------------------------
+
+Log Entry : 12:33:53 PM Thursday, August 12, 2021
+  :
+  :Promotion Engine is initialized : 
+-------------------------------
+
+Log Entry : 12:35:24 PM Thursday, August 12, 2021
+  :
+  :Promotion Engine is initialized : 
+-------------------------------
+
+Log Entry : 12:36:46 PM Thursday, August 12, 2021
+  :
+  :Promotion Engine is initialized : 
+-------------------------------
+
+Log Entry : 12:41:58 PM Thursday, August 12, 2021
+  :
+  :Promotion Engine is initialized : 
+-------------------------------
+
+Log Entry : 12:42:48 PM Thursday, August 12, 2021
+  :
+  :Promotion Engine is initialized : 
+-------------------------------
+
+Log Entry : 12:43:29 PM Thursday, August 12, 2021
+  :
+  :Promotion Engine is initialized : 
+-------------------------------
+
+Log Entry : 12:44:13 PM Thursday, August 12, 2021
+  :
+  :Promotion Engine is initialized : 
+-------------------------------

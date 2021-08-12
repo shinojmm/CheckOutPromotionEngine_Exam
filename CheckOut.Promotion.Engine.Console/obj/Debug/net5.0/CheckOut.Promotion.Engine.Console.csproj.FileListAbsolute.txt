@@ -1,0 +1,4 @@
+Z:\Workspace\CheckOutPromotionEngine_Test\CheckOut.Promotion.Engine\CheckOut.Promotion.Engine.Console\obj\Debug\net5.0\CheckOut.Promotion.Engine.Console.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Workspace\CheckOutPromotionEngine_Test\CheckOut.Promotion.Engine\CheckOut.Promotion.Engine.Console\obj\Debug\net5.0\CheckOut.Promotion.Engine.Console.AssemblyInfoInputs.cache
+Z:\Workspace\CheckOutPromotionEngine_Test\CheckOut.Promotion.Engine\CheckOut.Promotion.Engine.Console\obj\Debug\net5.0\CheckOut.Promotion.Engine.Console.AssemblyInfo.cs
+Z:\Workspace\CheckOutPromotionEngine_Test\CheckOut.Promotion.Engine\CheckOut.Promotion.Engine.Console\obj\Debug\net5.0\CheckOut.Promotion.Engine.Console.csproj.CoreCompileInputs.cache
