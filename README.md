@@ -42,11 +42,14 @@ Take the latest from the below link - https://github.com/shinojmm/CheckOutPromot
 
 # Visual studio version - 2019
 # Dot net version - .Net core 5
+# Console application
 
 # Packages used:-
 Configuration Nuget package
+
 xUnit for Unittest
 
+# Test Cases covered
 ![image](https://user-images.githubusercontent.com/17158147/129192658-46415519-7470-4ec9-91bf-79c93a4eb07e.png)
 
 
