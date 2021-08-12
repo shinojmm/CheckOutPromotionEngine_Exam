@@ -17,6 +17,7 @@ D	15
 
 # Active Promotions
 3 of A's for 130
+
 2 of B's for 45 C & D for 30
 
 # Scenario A
@@ -44,7 +45,7 @@ Take the latest from the below link - https://github.com/shinojmm/CheckOutPromot
 
 # Visual studio version - 2019
 # Dot net version - .Net core 5
-# Console application
+# Application type - Console application
 
 # Packages used:-
 Configuration Nuget package
