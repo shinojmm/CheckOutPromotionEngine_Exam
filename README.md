@@ -27,32 +27,46 @@ D	15
 C & D for 30
 
 # Scenario A
+
 1	* A	50
+
 1	* B	30
+
 1	* C	20
 
-Total		
-100
+Total	100
+
 # Scenario	B	
+
 5 * A		130 + 2*50
+
 5 * B		45 + 45 + 30
+
 1 * C		20
 
 Total	370
 
 # Scenario C
+
 3	* A	130
+
 5	* B	45 + 45 + 1 * 30
+
 1	* C	-
+
 1	* D	30
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Solution :-
 
 Take the latest from the below link - https://github.com/shinojmm/CheckOutPromotionEngine_Exam.git
+
 # Tools needed-
 
 # Visual studio - 2019
+
 # Dot net version - .Net core 5
+
 # Application type - Console application
 
 # Packages used:-
@@ -60,6 +74,7 @@ Take the latest from the below link - https://github.com/shinojmm/CheckOutPromot
 Configuration Nuget package
 
 xUnit for Unit test
+
 
 # Test Cases covered
 ![image](https://user-images.githubusercontent.com/17158147/129192658-46415519-7470-4ec9-91bf-79c93a4eb07e.png)
