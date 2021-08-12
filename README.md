@@ -10,15 +10,21 @@ The promotion engine should be modular to allow for more promotion types to be a
 Test Setup
 
 Unit price for SKU IDs 
+
 A	50
+
 B	30
+
 C	20
+
 D	15
 
 # Active Promotions
 3 of A's for 130
 
-2 of B's for 45 C & D for 30
+2 of B's for 45 
+
+C & D for 30
 
 # Scenario A
 1	* A	50
