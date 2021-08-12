@@ -75,6 +75,8 @@ Configuration Nuget package
 
 xUnit for Unit test
 
+Run the solution and enter the data in the console window.
+
 
 # Test Cases covered
 ![image](https://user-images.githubusercontent.com/17158147/129192658-46415519-7470-4ec9-91bf-79c93a4eb07e.png)
