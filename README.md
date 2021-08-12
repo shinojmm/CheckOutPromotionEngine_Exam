@@ -75,7 +75,13 @@ Configuration Nuget package
 
 xUnit for Unit test
 
-Run the solution and enter the data in the console window.
+# Project Structure:- 
+
+1) Created Separate class for Promotion and Strategies of promotion
+2) The project is having a business layer that will interact with Presentation layer and Data
+3) The required data is being populated from the json file using configuration manager
+4) The project is using xUnit to run the test cases
+5) Run the solution and enter the values in the console window.
 
 
 # Test Cases covered
